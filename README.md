@@ -7,7 +7,7 @@ Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
  |  |  | 
  |  |  | 
-Boris Baštek | bbastek@foi.hr | 00161355018 | Rysc0
+Boris Baštek |  |  | Rysc0
 
 ## Opis domene
 Svako poslovanje koristi određeni sustav koji omogućuje lakšu interakciju sa glavnim radnjama u poslovanju. Ova aplikacija namijenjena je lakšem poslovanju ljekarne, obuhvaća sve bitne radnje sa bazama podataka ljekarne, te omogućuje bržu prodaju i interakciju sa korisnicima ali i pomoć zaposlenicima u radu.
