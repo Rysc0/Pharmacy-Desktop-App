@@ -15,14 +15,14 @@ Svako poslovanje koristi određeni sustav koji omogućuje lakšu interakciju sa 
 ## Specifikacija projekta
 Oznaka | Naziv | Kratki opis | Odgovorni član tima
 ------ | ----- | ----------- | -------------------
-F01 | Login | Prilikom pokretanja aplikacije zaposlenik se treba  prijaviti sa svojim podacima radi dozvola pristupa zaposlenika. | Luka Puškadija
+F01 | Login | Prilikom pokretanja aplikacije zaposlenik se treba  prijaviti sa svojim podacima radi dozvola pristupa zaposlenika. | 
 F02 | Prodaja lijekova i izdavanje računa | Zaposlenik izdaje lijekove i račun kupcu. | Boris Baštek
 F03 | Naručivaje lijekova | Voditelj ima mogućnost narudžbe novih zaliha lijekova. | Boris Baštek
 F04 | Dodavanje lijekova | Voditelj ima mogućnost dodavanja novih lijekova u bazu podataka ljekarne. | Boris Baštek
-F05 | Dodavanje/brisanje zaposlenika | Moderator dodaje nove zaposlenike u bazu te radi potrebne izmjene podataka. | Karlo Pavković
-F06 | Dodavanje/brisanje kupaca | Zaposlenik dodaje nove kupce u bazu. | Luka Puškadija
-F07 | Generiranje izvješća | Voditelj ima uvid u izješća o radu ljekarne. | Karlo Pavković
-F08 | Interakcija lijekova/Provjera kompatibilnosti lijekova | Sustav provjere kompatibilnosti lijekova. | Luka Puškadija, Boris Baštek, Karlo Pavković 
+F05 | Dodavanje/brisanje zaposlenika | Moderator dodaje nove zaposlenike u bazu te radi potrebne izmjene podataka. | 
+F06 | Dodavanje/brisanje kupaca | Zaposlenik dodaje nove kupce u bazu. | 
+F07 | Generiranje izvješća | Voditelj ima uvid u izješća o radu ljekarne. | 
+F08 | Interakcija lijekova/Provjera kompatibilnosti lijekova | Sustav provjere kompatibilnosti lijekova. | Boris Baštek
 
 ## Tehnologije i oprema
 .Net Visual studio,
