@@ -5,8 +5,8 @@
 
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
-Karlo Pavkovic | kpavkovic@foi.hr | 0016136689 | kpavkovic
-Luka Puškadija | lpuskadij@foi.hr | 0016137233 | Bral3
+ |  |  | 
+ |  |  | 
 Boris Baštek | bbastek@foi.hr | 00161355018 | Rysc0
 
 ## Opis domene
